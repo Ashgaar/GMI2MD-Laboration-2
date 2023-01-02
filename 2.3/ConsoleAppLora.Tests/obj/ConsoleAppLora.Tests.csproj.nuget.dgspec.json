@@ -1,0 +1,228 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\zangi\\Programmering\\IT-säkerhet högskolan dalarna\\GMI2MD IoT\\Laboration 2\\ConsoleAppLora.Tests\\ConsoleAppLora.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\zangi\\Programmering\\IT-säkerhet högskolan dalarna\\GMI2MD IoT\\Laboration 2\\ALoRa.LibraryV3-main\\ALoRa.Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\zangi\\Programmering\\IT-säkerhet högskolan dalarna\\GMI2MD IoT\\Laboration 2\\ALoRa.LibraryV3-main\\ALoRa.Library.csproj",
+        "projectName": "ALoRa.Library",
+        "projectPath": "C:\\Users\\zangi\\Programmering\\IT-säkerhet högskolan dalarna\\GMI2MD IoT\\Laboration 2\\ALoRa.LibraryV3-main\\ALoRa.Library.csproj",
+        "packagesPath": "C:\\Users\\zangi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zangi\\Programmering\\IT-säkerhet högskolan dalarna\\GMI2MD IoT\\Laboration 2\\ALoRa.LibraryV3-main\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zangi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Colorful.Console": {
+              "target": "Package",
+              "version": "[1.2.15, )"
+            },
+            "M2MqttDotnetCore": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\zangi\\Programmering\\IT-säkerhet högskolan dalarna\\GMI2MD IoT\\Laboration 2\\ConsoleAppLora.Tests\\ConsoleAppLora.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\zangi\\Programmering\\IT-säkerhet högskolan dalarna\\GMI2MD IoT\\Laboration 2\\ConsoleAppLora.Tests\\ConsoleAppLora.Tests.csproj",
+        "projectName": "ConsoleAppLora.Tests",
+        "projectPath": "C:\\Users\\zangi\\Programmering\\IT-säkerhet högskolan dalarna\\GMI2MD IoT\\Laboration 2\\ConsoleAppLora.Tests\\ConsoleAppLora.Tests.csproj",
+        "packagesPath": "C:\\Users\\zangi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zangi\\Programmering\\IT-säkerhet högskolan dalarna\\GMI2MD IoT\\Laboration 2\\ConsoleAppLora.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zangi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\zangi\\Programmering\\IT-säkerhet högskolan dalarna\\GMI2MD IoT\\Laboration 2\\ALoRa.LibraryV3-main\\ALoRa.Library.csproj": {
+                "projectPath": "C:\\Users\\zangi\\Programmering\\IT-säkerhet högskolan dalarna\\GMI2MD IoT\\Laboration 2\\ALoRa.LibraryV3-main\\ALoRa.Library.csproj"
+              },
+              "C:\\Users\\zangi\\Programmering\\IT-säkerhet högskolan dalarna\\GMI2MD IoT\\Laboration 2\\ConsoleAppLora\\ConsoleAppLora.csproj": {
+                "projectPath": "C:\\Users\\zangi\\Programmering\\IT-säkerhet högskolan dalarna\\GMI2MD IoT\\Laboration 2\\ConsoleAppLora\\ConsoleAppLora.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\zangi\\Programmering\\IT-säkerhet högskolan dalarna\\GMI2MD IoT\\Laboration 2\\ConsoleAppLora\\ConsoleAppLora.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\zangi\\Programmering\\IT-säkerhet högskolan dalarna\\GMI2MD IoT\\Laboration 2\\ConsoleAppLora\\ConsoleAppLora.csproj",
+        "projectName": "ConsoleAppLora",
+        "projectPath": "C:\\Users\\zangi\\Programmering\\IT-säkerhet högskolan dalarna\\GMI2MD IoT\\Laboration 2\\ConsoleAppLora\\ConsoleAppLora.csproj",
+        "packagesPath": "C:\\Users\\zangi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zangi\\Programmering\\IT-säkerhet högskolan dalarna\\GMI2MD IoT\\Laboration 2\\ConsoleAppLora\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zangi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\zangi\\Programmering\\IT-säkerhet högskolan dalarna\\GMI2MD IoT\\Laboration 2\\ALoRa.LibraryV3-main\\ALoRa.Library.csproj": {
+                "projectPath": "C:\\Users\\zangi\\Programmering\\IT-säkerhet högskolan dalarna\\GMI2MD IoT\\Laboration 2\\ALoRa.LibraryV3-main\\ALoRa.Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\zangi\Programmering\IT-säkerhet högskolan dalarna\GMI2MD IoT\Laboration 2\ALoRa.LibraryV3-main\bin\Debug\net6.0\ALoRa.Library.deps.json
+C:\Users\zangi\Programmering\IT-säkerhet högskolan dalarna\GMI2MD IoT\Laboration 2\ALoRa.LibraryV3-main\bin\Debug\net6.0\ALoRa.Library.dll
+C:\Users\zangi\Programmering\IT-säkerhet högskolan dalarna\GMI2MD IoT\Laboration 2\ALoRa.LibraryV3-main\bin\Debug\net6.0\ALoRa.Library.pdb
+C:\Users\zangi\Programmering\IT-säkerhet högskolan dalarna\GMI2MD IoT\Laboration 2\ALoRa.LibraryV3-main\obj\Debug\net6.0\ALoRa.Library.csproj.AssemblyReference.cache
+C:\Users\zangi\Programmering\IT-säkerhet högskolan dalarna\GMI2MD IoT\Laboration 2\ALoRa.LibraryV3-main\obj\Debug\net6.0\ALoRa.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zangi\Programmering\IT-säkerhet högskolan dalarna\GMI2MD IoT\Laboration 2\ALoRa.LibraryV3-main\obj\Debug\net6.0\ALoRa.Library.AssemblyInfoInputs.cache
+C:\Users\zangi\Programmering\IT-säkerhet högskolan dalarna\GMI2MD IoT\Laboration 2\ALoRa.LibraryV3-main\obj\Debug\net6.0\ALoRa.Library.AssemblyInfo.cs
+C:\Users\zangi\Programmering\IT-säkerhet högskolan dalarna\GMI2MD IoT\Laboration 2\ALoRa.LibraryV3-main\obj\Debug\net6.0\ALoRa.Library.csproj.CoreCompileInputs.cache
+C:\Users\zangi\Programmering\IT-säkerhet högskolan dalarna\GMI2MD IoT\Laboration 2\ALoRa.LibraryV3-main\obj\Debug\net6.0\ALoRa.Library.dll
+C:\Users\zangi\Programmering\IT-säkerhet högskolan dalarna\GMI2MD IoT\Laboration 2\ALoRa.LibraryV3-main\obj\Debug\net6.0\refint\ALoRa.Library.dll
+C:\Users\zangi\Programmering\IT-säkerhet högskolan dalarna\GMI2MD IoT\Laboration 2\ALoRa.LibraryV3-main\obj\Debug\net6.0\ALoRa.Library.pdb
+C:\Users\zangi\Programmering\IT-säkerhet högskolan dalarna\GMI2MD IoT\Laboration 2\ALoRa.LibraryV3-main\obj\Debug\net6.0\ref\ALoRa.Library.dll
