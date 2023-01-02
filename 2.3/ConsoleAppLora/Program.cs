@@ -13,9 +13,9 @@ namespace ConsoleApp.Lora
         static void Main(string[] args)
         {
             Console.WriteLine("\nALoRa ConsoleApp - A The Things Network C# Library\n");
-            string TTN_APP_ID = "miol00-test-device@ttn";
-            string TTN_ACCESS_KEY = "NNSXS.4UC7MI7DRMQOXTFJJOCO42M7UV4ZCUGVAVGO6ZY.O7LMGTORRNONL4EBPAT7OS7MWZ2WRDRZQTN5D6PQEBJEO6J6HUNQ";
-            string TTN_REGION = "eu1";
+            string TTN_APP_ID = "####";
+            string TTN_ACCESS_KEY = "####";
+            string TTN_REGION = "####";
 
             using (var app = new TTNApplication(TTN_APP_ID, TTN_ACCESS_KEY, TTN_REGION))
             {
