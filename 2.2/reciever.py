@@ -5,15 +5,11 @@ import base64
 import json
 import paho.mqtt.client as mqtt
 
-THE_BROKER = "eu1.cloud.thethings.network"
-#MY_TOPICS = 'v3/+/devices/+/up'
-MY_TOPICS = 'v3/miol00-test-device@ttn/devices/eui-70b3d57ed005803e/up'
-APP_ID = 'miol00-test-device@ttn'
-API_KEY = 'NNSXS.4UC7MI7DRMQOXTFJJOCO42M7UV4ZCUGVAVGO6ZY.O7LMGTORRNONL4EBPAT7OS7MWZ2WRDRZQTN5D6PQEBJEO6J6HUNQ'
-# THE_BROKER = "eu1.cloud.thethings.network"
-# MY_TOPICS = 'v3/+/devices/+/up'
-# APP_ID = 'gmi2md-application-1'
-# API_KEY = "NNSXS.IMPCNYX6PIVO4ZGRIXVWMDRGBQIZKCUJU657XMA.GOI4KVEVDIEDPSVSI7DLUKQER7NLGL2O5FE23DJIE2ENKTOHKPWA"
+THE_BROKER = '###'
+MY_TOPICS = '###'
+APP_ID = '###'
+API_KEY = '###'
+
 
 def format_time():
     tm = datetime.datetime.now()
